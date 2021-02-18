@@ -1,0 +1,50 @@
+h1{
+    color: #f08080;
+    border: 10px solid #233c74;
+    background-color: #696969;
+}
+
+body{
+    background-color: #f0f8ff
+}
+
+.img img {
+    border:5px solid #000000;
+    border-radius: 40px;
+}
+
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+
+ol,ul{
+    font-family: comic sans ms; 
+}
+
+h2{
+    justify-content: center
+}
+
+.img{
+    display:flex;
+    justify-content: space-around;
+}
+
+.Img{
+border-radius: 20px;
+background-color: #ffffff;
+width:310px;
+}
+
+a:link{
+    color:#00ffff
+}
+
+a:visited{
+    color:#87cefa
+}
+
+.Img:hover{
+    transform: scale(1.2);
+}
